@@ -6,5 +6,5 @@ sayHi().then((value) => {
   console.log(value);
 });
 
-// di modules mjs
+// modules mjs
 console.log("await " + (await sayHi()));
